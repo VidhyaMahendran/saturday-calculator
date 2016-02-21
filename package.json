@@ -1,0 +1,25 @@
+{
+  "name": "saturday-calculator",
+  "version": "1.0.0",
+  "description": "Repo to calculate the week of the Current Saturday for a particular month",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VidhyaMahendran/saturday-calculator.git"
+  },
+  "keywords": [
+    "Saturday",
+    "Calulator",
+    "Android",
+    "App"
+  ],
+  "author": "Vidhya Vijai Anand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VidhyaMahendran/saturday-calculator/issues"
+  },
+  "homepage": "https://github.com/VidhyaMahendran/saturday-calculator#readme"
+}
